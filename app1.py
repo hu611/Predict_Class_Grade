@@ -1,1 +1,1 @@
-dreturn "hello"
+return "hello"
